@@ -859,7 +859,10 @@ main {
   color: var(--white-1);
   text-align: center;
 }
-
+.skill-img {
+    max-width: 100%;
+    height: auto;
+}
 
 /*-----------------------------------*\
   #CONTACT
